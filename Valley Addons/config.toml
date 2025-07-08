@@ -1,0 +1,112 @@
+
+[general]
+
+	[general.general]
+		auto_kick_valley = false
+		"compact_hoppity's_messages" = false
+		player_transfer_cooldown_notification = false
+
+	[general.picture_on_screen]
+		picture_on_screen = false
+
+	[general.auto_refill]
+		auto_refill_pearls_threshold = 13
+		auto_refill_jerries = false
+		auto_refill_jerries_threshold = 32
+		auto_refill_pearls = true
+
+	[general.reaper_display]
+		reaper_display = true
+
+	[general.cooldown_kick_message]
+		cooldown_kick_text = "Cooldown Kicked!"
+		cooldown_kick_message = false
+
+[kuudra]
+
+	[kuudra.party_dps]
+		send_dps_in_chat = false
+		kuudra_party_dps = false
+
+[dungeons]
+
+	[dungeons.general]
+		only_hide_in_boss = false
+		explo_shot_message = false
+		score_milestones = false
+		duplicate_class_warning = false
+		stonk_swap_ding_pitch = "2"
+		run_splits = false
+		auto_open_potion_bag = false
+		stonk_swap_ding = true
+		stonk_swap_ding_sound = "random.orb"
+		hide_players_after_leap = false
+		dungeon_item_highlight = false
+		duplicate_class_warning_sound = "note.pling"
+		show_on_every_class = false
+		blood_rush_splits = false
+
+	[dungeons.party_finder]
+		show_level = false
+		show_pb = false
+		show_mp = false
+
+	[dungeons.blood_camp]
+		show_blood_camp_splits_on_screen = false
+		blood_camp_helper = false
+		hide_splits_in_boss = false
+
+	[dungeons.invincibility]
+		phoenix_text = "Phoenix Procced!"
+		bonzo_and_phoenix_messages = false
+		bonzo_mask_text = "Bonzo's Mask Procced!"
+		disable_during_pre_4 = false
+
+	[dungeons.dungeon_warp_cooldown]
+		dungeon_warp_cooldown = false
+
+[location_messages]
+
+	[location_messages.general]
+		location_notification_sound_times_to_play = "5"
+		location_notification_sound = "note.harp"
+		location_notifications = true
+
+	[location_messages.location_messages]
+		ss_nearby_message = true
+		pre_enter_3_nearby_message = true
+		pre_enter_2_nearby_message = true
+		inside_tunnel_message = true
+		pre_enter_4_nearby_message = true
+		at_core_message = true
+		at_mid_message = true
+
+["f7/m7"]
+
+	["f7/m7".general]
+		crystal_spawn_timer = false
+		crystal_place_timer = true
+		dragon_spawn_timer = true
+		predev_timer = false
+		healer_debuff_team = 1
+		pad_tick_timer = true
+
+	["f7/m7".phase_3]
+		goldor_tick_timer = false
+		p3_start_timer = false
+		hide_players_in_p3 = false
+		pre_4_notifier = true
+		pre_4_notifier_sound = "note.harp"
+		terminal_timestamps = false
+
+	["f7/m7".relics]
+		relic_spawn_timer = false
+		block_wrong_relic_clicks = true
+		hide_players_in_p5 = false
+		show_highlight_through_blocks = true
+		relic_spawn_timer_amount = "42"
+		highlight_correct_cauldron = true
+		show_every_relic = true
+		show_relic_pick_up_time = true
+		relic_timer = true
+

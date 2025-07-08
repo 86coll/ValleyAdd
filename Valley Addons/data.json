@@ -1,0 +1,72 @@
+{
+    "firstInstall": false,
+    "p3StartTimer": {
+        "x": 480,
+        "y": 280,
+        "scale": 1
+    },
+    "relicSpawnTimer": {
+        "x": 480,
+        "y": 280,
+        "scale": 1
+    },
+    "goldorTickTimer": {
+        "x": 480,
+        "y": 280,
+        "scale": 1
+    },
+    "padTickTimer": {
+        "x": 473,
+        "y": 117,
+        "scale": 2.7499999999999982
+    },
+    "dungeonWarpCooldown": {
+        "x": 0,
+        "y": 0,
+        "scale": 1
+    },
+    "reaperDisplay": {
+        "x": 728.5,
+        "y": 165,
+        "scale": 3.4999999999999956
+    },
+    "pictureOnScreen": {
+        "x": 657,
+        "y": 117.5,
+        "scale": 0.14999999999999925
+    },
+    "predevTimer": {
+        "pb": 999999999
+    },
+    "relicTimer": {
+        "Purple": 999,
+        "Blue": 999,
+        "Red": 1.545,
+        "Green": 3.613,
+        "Orange": 1.904
+    },
+    "dragonSpawnTimer": {
+        "x": 484,
+        "y": 213.5,
+        "scale": 4.199999999999996
+    },
+    "crystalSpawnTimer": {
+        "x": 480,
+        "y": 280,
+        "scale": 1
+    },
+    "campSplits": {
+        "x": 0,
+        "y": 0,
+        "scale": 1
+    },
+    "crystalPlaceTimer": {
+        "pb": "1.037"
+    },
+    "runSplits": {
+        "x": 687.5,
+        "y": 50.5,
+        "scale": 1
+    },
+    "key": ""
+}
